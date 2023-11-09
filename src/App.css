@@ -13,9 +13,7 @@ img{
 .card-title{
     background-color: #453f3d;
 }
-.container{
-    background-color: 	#57504d;
-}
+
 .card-body{
     display: flex;
     flex-direction: column;
