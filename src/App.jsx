@@ -4,8 +4,8 @@ import { BrowserRouter, Route, Routes } from "react-router-dom";
 
 function App() {
   return (
-    <div className="container">
-      <h1>React.js CRUD </h1>
+    <div className=" bg-container">
+    <h1>React.js CRUD </h1>
       <BrowserRouter>
         <Routes>
           <Route path="/" element={<ComputerList />} />

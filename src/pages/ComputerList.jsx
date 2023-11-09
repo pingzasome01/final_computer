@@ -44,11 +44,12 @@ const ComputerList = () => {
     <div className="container">
       <div className="card">
         <div className="card-title">
-          <h2>Computer List</h2>
+          <h2 className="p-2 ">Computer List</h2>
+          {/* <h2 className="m-2">Computer</h2> */}
         </div>
         <div className="card-body">
-          <div className="divbtn">
-            <Link to="/computer/create" className="btn btn-success">
+          <div className="flex flex-row justify-items-end">
+            <Link to="/computer/create" className="btn btn-success ">
               Add New(+)
             </Link>
           </div>
