@@ -1,0 +1,84 @@
+{
+  "Computer": [
+    {
+      "id": 2,
+      "brand": "Asus",
+      "model": "ROG Zephyrus G14",
+      "price": 1499.99,
+      "CPU_type": "AMD Ryzen 9 4900HS",
+      "image": "https://source.unsplash.com/random/200x200/?gaming computer"
+    },
+    {
+      "id": 3,
+      "brand": "Lenovo",
+      "model": "IdeaPad Gaming 3",
+      "price": 999.99,
+      "CPU_type": "AMD Ryzen 5 4600H",
+      "image": "https://source.unsplash.com/random/200x200/?gaming computer"
+    },
+    {
+      "id": 4,
+      "brand": "Dell",
+      "model": "XPS 15",
+      "price": 1799.99,
+      "CPU_type": "Intel Core i7-9750H",
+      "image": "https://source.unsplash.com/random/200x200/?gaming computer"
+    },
+    {
+      "id": 5,
+      "brand": "HP",
+      "model": "Omen 15",
+      "price": 1399.99,
+      "CPU_type": "Intel Core i7-10750H",
+      "image": "https://source.unsplash.com/random/200x200/?gaming computer"
+    },
+    {
+      "id": 6,
+      "brand": "Razer",
+      "model": "Blade 15",
+      "price": 2099.99,
+      "CPU_type": "Intel Core i7-9750H",
+      "image": "https://source.unsplash.com/random/200x200/?gaming computer"
+    },
+    {
+      "id": 7,
+      "brand": "Apple",
+      "model": "MacBook Pro 16",
+      "price": 2399.99,
+      "CPU_type": "Intel Core i9",
+      "image": "https://source.unsplash.com/random/200x200/?gaming computer"
+    },
+    {
+      "id": 8,
+      "brand": "Microsoft",
+      "model": "Surface Laptop 4",
+      "price": 1599.99,
+      "CPU_type": "AMD Ryzen 7 4980U",
+      "image": "https://source.unsplash.com/random/200x200/?gaming computer"
+    },
+    {
+      "id": 9,
+      "brand": "Samsung",
+      "model": "Galaxy Book Pro",
+      "price": 1299.99,
+      "CPU_type": "Intel Core i5-1135G7",
+      "image": "https://source.unsplash.com/random/200x200/?gaming computer"
+    },
+    {
+      "id": 10,
+      "brand": "Huawei",
+      "model": "MateBook X Pro",
+      "price": 1799.99,
+      "CPU_type": "Intel Core i7-1165G7",
+      "image": "https://source.unsplash.com/random/200x200/?gaming computer"
+    },
+    {
+      "id": "11",
+      "brand": "MSI",
+      "model": "ALOD-231",
+      "price": "9999",
+      "CPU_type": "RTX 9090",
+      "image": "https://source.unsplash.com/random/200x200/?portrait"
+    }
+  ]
+}
